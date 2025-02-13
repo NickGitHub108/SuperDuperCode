@@ -1,0 +1,17 @@
+body {
+    background-color: darkgreen;
+}
+
+h1 {
+    text-align: center; 
+    color: lime;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+} 
+
+img {
+    width: 50%;
+}
